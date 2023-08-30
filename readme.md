@@ -1,6 +1,6 @@
 # CGE-Lab5
 
-Laboratorio 5 de la asignatura Computación a Gran Escala - Máster Universitario en Ingeniería Informática, EPS-UAM.  
+Laboratorio 5 de Computación a Gran Escala - Máster Universitario en Ingeniería Informática, EPS-UAM.  
 
 Este notebook define funciones para trabajar con RDD a partir de los ficheros de datos de sensores de teléfonos y relojes inteligentes, y muestra ejemplos de cómo se procesan los datos.
 
